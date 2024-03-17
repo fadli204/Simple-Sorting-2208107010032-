@@ -12,7 +12,7 @@ Program ini bertujuan untuk menguji dan mencatat waktu eksekusi dari tiga algori
    ```
 4. Jalankan program dengan perintah:
    ```bash
-   ./2208107010032_Simple_Sorting
+   2208107010032_Simple_Sorting
    ```
 5. Setelah program selesai dieksekusi, Anda akan melihat file-file hasil yang berisi array yang diurutkan dan waktu eksekusi.
 
